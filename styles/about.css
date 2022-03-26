@@ -1,0 +1,25 @@
+.about-section{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top:30px;
+}
+
+.about__text{
+    width:60%;
+    padding:0 20px;
+}
+
+.about__paragraph-1{
+    margin:20px 0;
+    width:70%;
+}
+
+.about__paragraph-2{
+    width:70%;
+}
+
+.about__gif img{
+    transform:rotate(12deg);
+}

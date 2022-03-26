@@ -1,0 +1,26 @@
+[
+    {
+        "country":"india",
+        "yearlyCases":"1969",
+        "casesPerDay":"5",
+        "countryImage":"/images/rapeCasesImg/india.svg"
+    },
+    {
+        "country":"australia",
+        "yearlyCases":"17,231",
+        "casesPerDay":"47",
+        "countryImage":"/images/rapeCasesImg/australia.svg"   
+    },
+    {
+        "country":"united states",
+        "yearlyCases":"13,453",
+        "casesPerDay":"36",
+        "countryImage":"/images/rapeCasesImg/unitedStates.svg"
+    },
+    {
+        "country":"mexico",
+        "yearlyCases":"3780",
+        "casesPerDay":"10",
+        "countryImage":"/images/rapeCasesImg/mexico.svg"
+    }
+]

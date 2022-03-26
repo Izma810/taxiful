@@ -1,0 +1,20 @@
+[
+    {
+        "id":"safecab",
+        "title":"Safe Cab",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+        "icon":"/icons/servicePage/safeCab.svg"
+    },
+    {
+        "id":"taxifare",
+        "title":"Taxi Fare",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+        "icon":"/icons/servicePage/taxiFare.svg"
+    },
+    {
+        "id":"freeride",
+        "title":"Free Ride",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+        "icon":"/icons/servicePage/taxiFare.svg"
+    }
+]

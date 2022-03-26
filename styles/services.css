@@ -1,0 +1,53 @@
+.services__heading{
+    padding:30px 50px;
+}
+
+.services__cards{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding:20px 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.services__card{
+    margin:30px 10px;
+    display:flex;
+    flex-direction: column;
+    border:2px solid black;
+    border-radius:20px;
+    padding:30px;
+    width:450px;
+}
+
+.card__heading{
+    font-size:3rem;
+}
+
+.contentbox__content{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.contentbox__text{
+    display: flex;
+    flex-direction: column;
+    width:70%;
+}
+
+.contentbox__arrow{
+    text-align: right;
+    padding-right:30px;
+}
+
+.contentbox__arrow img{
+    cursor: pointer;
+}
+
+
+
+
+

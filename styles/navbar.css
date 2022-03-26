@@ -1,0 +1,36 @@
+.nav-bar{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    padding:20px 20px;
+}
+
+.nav__links{
+    display:flex;
+    flex-direction: row;
+}
+
+.nav__links a{
+    text-decoration: none;
+    font-size:1.2rem;
+    color:black;
+    padding:12px 50px;
+    border-radius:100px;
+    transition:0.2s ease-in-out;
+    margin:10px;
+}
+
+.nav__links a:hover{
+    background:rgba(0, 0, 0, 0.1);
+}
+
+.active{
+    background:black;
+    color:white !important;
+    pointer-events: none !important;
+}
+
+.nav__logo{
+    margin-left:auto;
+    cursor:pointer;
+}

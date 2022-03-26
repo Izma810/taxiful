@@ -1,0 +1,73 @@
+.target__heading{
+    padding:30px 50px;
+}
+
+.target__paragraph{
+    padding: 0 80px;
+    display:flex;
+    flex-direction: column;
+    font-size:1.05rem;
+    font-weight: 500;
+}
+
+.paragraph__1{
+    margin:10px 0;
+}
+
+.paragraph__2{
+    margin:10px 0;
+}
+
+.paragraph__3{
+    margin:10px 0;
+}
+
+.target__countries{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.countries__card{
+    margin:50px 80px;
+}
+
+.card__heading{
+    font-size:2.3rem;
+    font-weight:700;
+    text-align:left;
+}
+
+.card__overlap{
+    position:relative;
+}
+
+.overlap__image{
+    position:absolute;
+    left:0;
+    top:0;
+}
+
+.overlap__text{
+    display:flex;
+    flex-direction: column;
+    z-index: 100;
+    position: absolute;
+    top: 210px;
+    left:30px;
+    font-weight:600;
+    font-size:1.2rem;
+}
+
+.text__daily{
+    margin-top:10px;
+}
+
+.target__sub-heading{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top:50px;
+}

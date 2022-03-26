@@ -1,0 +1,43 @@
+.landing-section{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+}
+
+.landing__text{
+    display:flex;
+    flex-direction: column;
+    width:55%;
+    padding:0 50px;
+}
+
+.text__heading{
+    font-size:5rem;
+    font-weight:600;
+}
+
+.text__paragraph{
+    margin: 20px 0;
+    font-size:1rem;
+    width:110%;
+    font-weight:400;
+}
+
+.text__icons{
+    display:flex;
+    flex-direction: row;
+}
+
+.icons__bg{
+    margin:5px 10px;
+    background:black;
+    padding:8px;
+    border-radius:50%;
+    height:41px;
+    transition:0.2s ease-in-out;
+}
+
+.icons__bg:hover{
+    background:rgba(0, 0, 0, 0.8);
+}
