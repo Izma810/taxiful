@@ -31,7 +31,7 @@ function Target(){
                     The main aim of this web application is to remove fear
                     from people and help cabs become safer. This will help
                     in building trust between customers and cab drivers while also
-                    reducing the occurence of crimes. 
+                    reducing the occurrence of crimes. 
                 </div>
             </div>
             <div className='target__sub-heading'>
