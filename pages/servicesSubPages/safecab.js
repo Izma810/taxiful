@@ -5,6 +5,7 @@ import states from '../../data/states';
 import cabdata from '../../data/safeCabData';
 import Button from '@mui/material/Button';
 import goToArrow from '../../public/icons/servicePage/goToArrow.svg';
+import { useRouter } from 'next/router';
 
 const buttonStyles = {
     'display':'flex',
@@ -26,6 +27,8 @@ const buttonStyles = {
 }
 
 function SafeCab(){
+
+    const route = useRouter();
 
     const [state, setState] = useState(states[0]);
 
@@ -153,13 +156,14 @@ function SafeCab(){
                         <Button 
                             sx={{...buttonStyles}} 
                             variant="contained"
+                            onClick={() => route.replace(`/servicesSubPages/safeslider/`)}
                         > 
-                            Go  {' '}
+                            Go{' '}
                             <Image 
                                 src={goToArrow} 
                                 alt='hi' 
-                                width={30} 
-                                height={30} 
+                                width={20} 
+                                height={20} 
                             />
                         </Button>
                     </div>

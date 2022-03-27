@@ -9,10 +9,11 @@ function Home() {
     <section className='landing-section'>
       <div className='landing__text'>
         <div className='text__heading'>
-          Lorem Ipsum
+          Welcome,
         </div>
         <div className='text__paragraph'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Taxiful, a web application made to make the cabs safer and build trust among the users and drivers. The website is very easy to use and even non-tech savvy people can use it.
+          When the tagline says {"'"}Safety Comes First{"'"}, then this application actually means it :).
         </div>
         <div className='text__icons'>
           <div className='icons__bg'>
