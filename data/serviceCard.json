@@ -2,19 +2,19 @@
     {
         "id":"safecab",
         "title":"Safe Cab",
-        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+        "desc":"Just set a tracker and travel safely. Follow two easy steps to setup the tracker.",
         "icon":"/icons/servicePage/safeCab.svg"
     },
     {
         "id":"taxifare",
         "title":"Taxi Fare",
-        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+        "desc":"Not a lie, just the accurate money you have to pay. For the drivers and cab users :)",
         "icon":"/icons/servicePage/taxiFare.svg"
     },
     {
         "id":"freeride",
-        "title":"Free Ride",
-        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
-        "icon":"/icons/servicePage/taxiFare.svg"
+        "title":"Free Cab",
+        "desc":"An initiative for those who have any kind of physical disability. Ride a free cab without a problem.",
+        "icon":"/icons/servicePage/freeCab.svg"
     }
 ]

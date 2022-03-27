@@ -27,7 +27,7 @@ function Services(){
                                                 {i.title}
                                             </span>
                                             <div className='card__para'>
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
+                                                {i.desc}
                                             </div>
                                         </div>
                                             <Image 
